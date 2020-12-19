@@ -1,2 +1,2 @@
-# scriptable-widgets
+# Scriptable iOS widgets
 A small collection of my Scriptable iOS widgets.
