@@ -3,6 +3,7 @@
 ### Features:
 - Shows new pictures by NASA on a daily basis
 - Shows title and short description of the picture
+- Changing design for small sized widgets
 - A single tap on the widget opens Google search results about the topic
 
 ### Setup:
