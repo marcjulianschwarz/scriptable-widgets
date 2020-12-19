@@ -3,7 +3,7 @@ This is a small collection of JavaScript scripts which can be used to create bot
 All of those widgets/scripts were created with the app <a href="https://scriptable.app/">Scriptable</a> and they will not work without this app.
 
 ### List of all available widgets:
-- Daily NASA pictures
+- <a href="https://github.com/marcjulianschwarz/scriptable-widgets/tree/main/nasa-pictures">Daily NASA pictures</a>
 - Telekom data usage (only for german telekom customers)
 - Bayern Regenradar / Bavaria rain radar
 
