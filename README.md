@@ -4,7 +4,7 @@ All of those widgets/scripts were created with the app <a href="https://scriptab
 
 ### List of all available widgets:
 - <a href="https://github.com/marcjulianschwarz/scriptable-widgets/tree/main/nasa-pictures">Daily NASA pictures</a>
-- Telekom data usage (only for german telekom customers)
+- <a href="https://github.com/marcjulianschwarz/telekom-data-usage-widget">Telekom data usage</a> (only for german telekom customers)
 - Bayern Regenradar / Bavaria rain radar
 
 ### Coming soon:
