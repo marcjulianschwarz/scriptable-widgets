@@ -6,7 +6,7 @@
 - A single tap on the widget opens Google search results about the topic
 
 ### Setup:
-1. Follow the basic setup steps in the general README file.
+1. Follow the basic setup steps in the general <a href="https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/README.md">README file</a>.
 2. Enjoy your new widget ;)
 
 ### Questions?
