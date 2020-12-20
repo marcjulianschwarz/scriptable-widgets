@@ -1,4 +1,4 @@
-# Germany rain radar widget (iOS 14)
+# Germany rain radar
 
 ### Features:
 - shows rain radar images from <a href="https://www.dwd.de/DE/Home/home_node.html">DWD</a>
