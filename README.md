@@ -13,6 +13,8 @@ All of those widgets/scripts were created with the app <a href="https://scriptab
 - Information widget (weather, device information, sunrise/set, reminders, calendar, quote of the day, greeting, date)
 
 ### General setup to use scripts for Scriptable widgets:
+You can skip step 2 and 3 if you use <a href="https://www.icloud.com/shortcuts/6ed2c6905d664447888fb5b4b10b92b9">my iOS shortcut</a> to download the files.
+
 1. Download the app <a href="https://scriptable.app/">Scriptable</a>.
 2. Copy the script you want to use.
 3. Open the Scriptable app, create a new script (give it a name) and paste the script you just copied.
