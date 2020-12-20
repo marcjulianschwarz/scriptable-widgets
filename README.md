@@ -6,6 +6,7 @@ All of those widgets/scripts were created with the app <a href="https://scriptab
 - <a href="https://github.com/marcjulianschwarz/scriptable-widgets/tree/main/nasa-pictures">Daily NASA pictures</a>
 - <a href="https://github.com/marcjulianschwarz/telekom-data-usage-widget">Telekom data usage</a> (only for german telekom customers)
 - Bayern Regenradar / Bavaria rain radar
+- Boca Chica Highway Road Closures
 
 ### Coming soon:
 - Better calendar and reminder widget
