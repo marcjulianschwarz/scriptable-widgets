@@ -1,4 +1,4 @@
-# Nasa Pictures widget
+# Nasa Pictures
 
 ### Features:
 - Shows new pictures by NASA on a daily basis
