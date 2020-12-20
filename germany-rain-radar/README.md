@@ -7,6 +7,22 @@
 
 ### Setup:
 1. Follow the basic setup steps in the general <a href="https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/README.md">README file</a>. 
+2. After step 5 of the basic setup, you can enter parameters to specify your state (the map you want to see)
+
+Possible parameters (default is **brd** if no parameters were supplied):
+- **brd** (Deutschland)
+- **bay** (Bayern)
+- **baw** (Baden-Wuerttemberg)
+- **bbb** (Brandenburg and Berlin)
+- **hes** (Hessen)
+- **sac** (Sachsen)
+- **thu** (Thueringen)
+- **shh** (Schleswig-Holstein and Hamburg)
+- **saa** (Sachsen-Anhalt)
+- **rps** (Rheinland-Pfalz and Saarland)
+- **nrw** (Nordrhein-Westfalen)
+- **nib** (Niedersachsen and Bremen)
+- **mvp** (Mecklenburg-Vorpommern)
 
 3. Enjoy your new widget ;)
 
