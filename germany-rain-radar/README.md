@@ -1,9 +1,9 @@
 # Germany rain radar widget (iOS 14)
 
 ### Features:
-- shows rain radar images from <a href="">DWD</a>
-- 13 different maps
-- works in small, medium and large widget size
+- shows rain radar images from <a href="https://www.dwd.de/DE/Home/home_node.html">DWD</a>
+- 13 different maps (for every state)
+- works in small and large widget size
 
 ### Setup:
 1. Follow the basic setup steps in the general <a href="https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/README.md">README file</a>. 
@@ -49,7 +49,8 @@ My contact options:
 - more customization
 
 #### Updates:
-
+20.12.2020:
+- added different maps (for every state)
 
 ### Known bugs and issues:
 None so far.
