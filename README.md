@@ -1,15 +1,16 @@
 # Scriptable iOS widgets
-This is a small collection of JavaScript scripts which can be used to create both beautiful and useful widgets.
+This is a small collection of my JavaScript scripts which can be used to create both beautiful and useful widgets.
 All of those widgets/scripts were created with the app <a href="https://scriptable.app/">Scriptable</a> and they will not work without this app.
 
 ### List of all available widgets:
 - <a href="https://github.com/marcjulianschwarz/scriptable-widgets/tree/main/nasa-pictures">Daily NASA pictures</a>
 - <a href="https://github.com/marcjulianschwarz/telekom-data-usage-widget">Telekom data usage</a> (only for german telekom customers)
 - <a href="https://github.com/marcjulianschwarz/scriptable-widgets/tree/main/germany-rain-radar">Germany Rain Radar</a>
-- Boca Chica Highway Road Closures
 
 ### Coming soon:
 - Better calendar and reminder widget
+- Boca Chica Highway Road Closures
+- Information widget (weather, device information, sunrise/set, reminders, calendar, quote of the day, greeting, date)
 
 ### General setup to use scripts for Scriptable widgets:
 1. Download the app <a href="https://scriptable.app/">Scriptable</a>.
