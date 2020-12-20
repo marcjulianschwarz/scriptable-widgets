@@ -17,6 +17,7 @@ All of those widgets/scripts were created with the app <a href="https://scriptab
 3. Open the Scriptable app, create a new script (give it a name) and paste the script you just copied.
 4. Go to your homescreen, long press and add a Scriptable widget with your preferred size (small, medium, large).
 5. Tap on the newly created widget and select the script that you created earlier.
+(5.1) Specify any parameters if necessary by entering them in the "parameters" box.
 6. Go back to your homescreen and enjoy your widget!
 
 If you need any help with the setup process feel free to contact me and I will try my best to get everything working.
