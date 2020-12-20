@@ -1,4 +1,4 @@
-# Daily Nasa Pictures widget (iOS 14)
+# Nasa Pictures widget
 
 ### Features:
 - Shows new pictures by NASA on a daily basis
