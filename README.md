@@ -21,9 +21,8 @@ All of those widgets/scripts were created with the app <a href="https://scriptab
 
 (5.1) If necessary, you can specify any parameters by entering them in the "parameters" box.
 
-If you need any help with the setup process feel free to contact me and I will try my best to get everything working.
-
 ### Questions?
+If you need any help with the setup process feel free to contact me and I will try my best to get everything working.
 I am happy to answer all your questions and look forward to feedback, suggestions and ideas that can help improve the widget.
 My contact options:
 - Twitter <a href="https://twitter.com/marcjulian_DS">@marcjulian_DS</a>
