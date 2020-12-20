@@ -46,7 +46,7 @@ My contact options:
 </div>
 
 ### Future Features:
-- more customization
+- show other weather information/maps
 
 #### Updates:
 20.12.2020:
