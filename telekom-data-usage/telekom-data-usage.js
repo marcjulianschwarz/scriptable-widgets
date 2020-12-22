@@ -87,13 +87,14 @@ async function getFromApi(){
 async function saveData(data){
   data.savedDate = Date.now();
   fm.writeString(path, JSON.stringify(data));
-  console.log("Saved new data")
+  console.log("Saved new data");
 }
 
 async function getFromFile(){
+  await fm.downloadFileFromiCloud(path);
   data = await JSON.parse(fm.readString(path));
-  console.log("Fetching data from file was successful")
-  return data
+  console.log("Fetching data from file was successful");
+  return data;
 }
 
 async function processData(data){
