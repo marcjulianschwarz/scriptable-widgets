@@ -81,6 +81,9 @@ Meine Kontaktmöglichkeiten:
 - Hintergrundfarbe/bild können jetzt als SETUP eingestellt werden.
 - Falls ein Fehler auftritt wird dieser nun korrekt ausgegeben.
 
+22.12.2020
+- Problem gelöst, bei dem die Datei "telekom-data.json" nicht aus iCloud geladen wurde
+
 ### Bekannte Probleme:
 - Eingeschränkter Darkmode Support für SFSymbols (WLAN Zeichen)
 - Widget funktioniert nur mit deutschen Telekom Verträgen
