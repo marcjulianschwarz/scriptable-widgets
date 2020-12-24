@@ -10,6 +10,8 @@
 1. Follow the basic setup steps in the general <a href="https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/README.md">README file</a>.
 2. Enjoy your new widget ;)
 
+You can skip a few steps if you use <a href="https://www.icloud.com/shortcuts/6ed2c6905d664447888fb5b4b10b92b9">my iOS shortcut</a> to download the files.
+
 ### Questions?
 I am happy to answer all questions and look forward to feedback, suggestions and ideas that can help improve the widget.
 My contact options:
