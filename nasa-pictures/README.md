@@ -21,9 +21,9 @@ My contact options:
 ### Pictures:
 
 <div>
-<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/nasa-pictures/images/IMG_1558.PNG" width=240px>
-<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/nasa-pictures/images/IMG_1559.PNG" width=240px>
-<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/nasa-pictures/images/IMG_1560.PNG" width=240px>
+<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/nasa-pictures/images/IMG_1652.png" width=240px>
+<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/nasa-pictures/images/IMG_1653.PNG" width=240px>
+<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/nasa-pictures/images/IMG_1654.PNG" width=240px>
 </div>
 
 
