@@ -34,5 +34,9 @@ My contact options:
 19.12.2020:
 - better design for small sized widgets
 
+26.12.2020:
+- new fonts and sizes for text
+- new pictures in README
+
 ### Known bugs and issues:
 None so far.
