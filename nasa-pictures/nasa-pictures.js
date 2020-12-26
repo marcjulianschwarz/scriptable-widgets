@@ -1,5 +1,8 @@
-//#### Setup: ####
+// Variables used by Scriptable.
+// These must be at the very top of the file. Do not edit.
+// icon-color: red; icon-glyph: magic;
 
+// #### Setup ####
 // Get your own api key at: https://api.nasa.gov
 const api_key = ""
 let api_url = "https://api.nasa.gov/planetary/apod?api_key=" + api_key
@@ -41,14 +44,19 @@ async function createWidget(data, image){
     desc_stack.addSpacer(5)
     explanation_txt = desc_stack.addText(data.explanation)  
     explanation_txt.textColor = Color.white()  
-    explanation_txt.font = Font.regularRoundedSystemFont(14)
-  
+    explanation_txt.font = Font.regularRoundedSystemFont(14)  
+    explanation_txt.shadowRadius = 1
+    explanation_txt.shadowColor = Color.black()
   }
   
   footer.addSpacer()
   
   title_txt.textColor = Color.white()  
-  title_txt.font = Font.regularRoundedSystemFont(18)  
+  title_txt.font = Font.boldRoundedSystemFont(18)  
+
+
+title_txt.shadowRadius = 1
+title_txt.shadowColor = Color.black()
   
   let widget_url = "http://www.google.com/search?q=" + data.explanation.replaceAll(" ", "+").replace("?", "")
   widget.url = widget_url
@@ -56,14 +64,17 @@ async function createWidget(data, image){
   return widget
 }
 
-
-let data = await getData(api_url)
-let image = await getImage(data.hdurl)
-let widget = await createWidget(data, image)
-
-widget.presentLarge()
-
-Script.setWidget(widget)
+if(api_key == ""){
+  console.error("You must enter an API key at setup")
+}else{
+  
+  let data = await getData(api_url)  
+  let image = await getImage(data.hdurl)  
+  let widget = await createWidget(data, image)
+  
+  widget.presentLarge()
+  
+  Script.setWidget(widget)
+}
 Script.complete()
-
 
