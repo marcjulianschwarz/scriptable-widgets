@@ -8,7 +8,8 @@
 
 ### Setup:
 1. Follow the basic setup steps in the general <a href="https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/README.md">README file</a>.
-2. Enjoy your new widget ;)
+2. To use this widget you will need to get your own API key at <a hre="https://api.nasa.gov">NASA APIs</a>. Enter your email and you will get the key which you will have to enter in the script.
+3. Enjoy your new widget ;)
 
 You can skip a few steps if you use <a href="https://www.icloud.com/shortcuts/6ed2c6905d664447888fb5b4b10b92b9">my iOS shortcut</a> to download the files.
 
