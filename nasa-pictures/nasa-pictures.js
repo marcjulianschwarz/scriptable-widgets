@@ -2,7 +2,6 @@
 // These must be at the very top of the file. Do not edit.
 // icon-color: red; icon-glyph: magic;
 
-// #### Setup ####
 // Get your own api key at: https://api.nasa.gov
 const api_key = ""
 let api_url = "https://api.nasa.gov/planetary/apod?api_key=" + api_key
@@ -20,9 +19,9 @@ async function getData(url){
 }
 
 
-async function getImage(url){  
-  let img_request = new Request(url)  
-  let image = await img_request.loadImage()  
+async function getImage(url){        
+  let img_request = new Request(url)    
+  let image = await img_request.loadImage()
   return image
 }
 
@@ -45,8 +44,9 @@ async function createWidget(data, image){
     explanation_txt = desc_stack.addText(data.explanation)  
     explanation_txt.textColor = Color.white()  
     explanation_txt.font = Font.regularRoundedSystemFont(14)  
-    explanation_txt.shadowRadius = 1
-    explanation_txt.shadowColor = Color.black()
+explanation_txt.shadowRadius = 1
+explanation_txt.shadowColor = Color.black()
+  
   }
   
   footer.addSpacer()
@@ -64,14 +64,32 @@ title_txt.shadowColor = Color.black()
   return widget
 }
 
+async function createErrorWidget(err){  
+  let widget = new ListWidget()
+  widget.addText("There was an error.")
+  txt = widget.addText(err)
+  txt.textColor = Color.red()
+  return widget
+}
+
+
+
+
 if(api_key == ""){
   console.error("You must enter an API key at setup")
+  let widget = await createErrorWidget("You must enter an API key at setup")
+  widget.presentLarge()
+  Script.setWidget(widget)
+  
 }else{
-  
-  let data = await getData(api_url)  
-  let image = await getImage(data.hdurl)  
-  let widget = await createWidget(data, image)
-  
+  try{
+    let data = await getData(api_url)  
+    let image = await getImage(data.hdurl)  
+    let widget = await createWidget(data, image)  
+  }catch{
+    console.error("There was a problem getting data from API")
+    widget = await createErrorWidget("Problem with API, probably video which cant be used in a widget. New picture coming tomorrow.") 
+  }
   widget.presentLarge()
   
   Script.setWidget(widget)
