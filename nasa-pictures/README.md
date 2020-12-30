@@ -43,4 +43,4 @@ My contact options:
 - more details in error messages
 
 ### Known bugs and issues:
-None so far.
+- NASA API sometimes shows videos instead of images which can't be displayed in a widget resulting in an error. There is an error message for exactly this case but there won't be a picture for the whole day unfortunately. 
