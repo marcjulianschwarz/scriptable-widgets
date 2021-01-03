@@ -42,5 +42,10 @@ My contact options:
 29.12.2020:
 - more details in error messages
 
+03.01.2021:
+- widgets should now update faster
+- error while assigning widgets has been resolved
+
 ### Known bugs and issues:
-- NASA API sometimes shows videos instead of images which can't be displayed in a widget resulting in an error. There is an error message for exactly this case but there won't be a picture for the whole day unfortunately. 
+- NASA API sometimes shows videos instead of images which can't be displayed in a widget resulting in an error. There is an error message for exactly this case but there won't be a picture for the whole day unfortunately.
+- NASA API sometimes returns images with HD or better quality. Widgets can't handle images of that size. Should be solved with the newest update (03.01.2021). If not, please contact me.
