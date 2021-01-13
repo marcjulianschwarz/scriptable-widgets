@@ -37,14 +37,14 @@ My contact options:
 ### Pictures:
 
 <div>
-<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/germany-rain-radar/images/IMG_1563.PNG" width=240px>
-<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/germany-rain-radar/images/IMG_1564.PNG" width=240px>
-<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/germany-rain-radar/images/IMG_1565.PNG" width=240px>
+<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/germany-rain-radar/images/IMG_1563.jpg" width=240px>
+<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/germany-rain-radar/images/IMG_1564.jpg" width=240px>
+<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/germany-rain-radar/images/IMG_1565.jpg" width=240px>
 </div>
 <div>
-<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/germany-rain-radar/images/IMG_1566.PNG" width=240px>
-<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/germany-rain-radar/images/IMG_1567.PNG" width=240px>
-<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/germany-rain-radar/images/IMG_1568.PNG" width=240px>
+<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/germany-rain-radar/images/IMG_1566.jpg" width=240px>
+<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/germany-rain-radar/images/IMG_1567.jpg" width=240px>
+<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/germany-rain-radar/images/IMG_1568.jpg" width=240px>
 </div>
 
 ### Future Features:
