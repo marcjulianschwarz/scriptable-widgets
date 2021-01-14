@@ -22,7 +22,10 @@ My contact options:
 <div>
 <img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/boca-chica-spacex/images/IMG_2323.jpg" width=240px>
 <img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/boca-chica-spacex/images/IMG_2324.jpg" width=240px>
+<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/boca-chica-spacex/images/l.jpg" width=240px>
+<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/boca-chica-spacex/images/d.jpg" width=240px>
 </div>
+
 
 
 
