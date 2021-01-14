@@ -6,8 +6,11 @@
 FONT = Font.regularRoundedSystemFont(13)
 SYMB = Font.regularRoundedSystemFont(10)
 
-TXT_COLOR = Color.dynamic(new Color("#000000"), new Color("#ffffff"))
-BG_COLOR = Color.dynamic(new Color("#f5f5f5"), new Color("#161618"))
+
+let TXT_COLOR = Color.dynamic(new Color("#000000"), new Color("#ffffff"))
+let BG_COLOR = Color.dynamic(new Color("#ffffff"), new Color("#161618"))
+let BOX_COLOR = Color.dynamic(new Color("#161618", 0.1), new Color("#ffffff", 0.1))
+
 
 TITLE = Font.boldRoundedSystemFont(15)
 
@@ -121,7 +124,7 @@ async function createStackTFR(widget){
   
   stack.setPadding(10, 10, 10, 10)
   stack.cornerRadius = 10
-  stack.backgroundColor = BG_COLOR
+  stack.backgroundColor = BOX_COLOR
   
   return widget
 
@@ -156,7 +159,7 @@ async function createStackRoad(widget){
   
   stack.setPadding(10, 10, 10, 10)
   stack.cornerRadius = 10
-  stack.backgroundColor = BG_COLOR
+  stack.backgroundColor = BOX_COLOR
   
   return widget
 }
@@ -170,6 +173,8 @@ async function createWidget(){
   two = await createStackTFR(two)
   two.addSpacer()
   two = await createStackRoad(two)
+  
+  widget.backgroundColor = BG_COLOR
   
   return widget
 }
