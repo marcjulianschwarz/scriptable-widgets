@@ -20,12 +20,12 @@ My contact options:
 ### Pictures:
 
 <div>
-<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/boca-chica-spacex/images/IMG_2323.jpg" width=240px>
-<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/boca-chica-spacex/images/IMG_2324.jpg" width=240px>
+<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/boca-chica-spacex/images/IMG_2323.jpg" width=340px>
+<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/boca-chica-spacex/images/IMG_2324.jpg" width=340px>
 </div>
 <div>
-<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/boca-chica-spacex/images/l.jpg" width=340px>
-<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/boca-chica-spacex/images/d.jpg" width=340px>
+<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/boca-chica-spacex/images/l.jpg" width=440px>
+<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/boca-chica-spacex/images/d.jpg" width=440px>
 </div>
 
 
