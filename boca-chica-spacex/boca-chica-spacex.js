@@ -54,9 +54,9 @@ async function processRoadData(response){
   for(r of response){
     
     if(r == "Closure Canceled"){
-      data.push("âŒ")
+      data.push("❌")
     }else if(r == "Closure Scheduled"){
-      data.push("âœ…")
+      data.push("✅")
     }else if(r.includes(",")){
       date = r.split(",")
       data.push(date[1])
