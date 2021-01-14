@@ -6,10 +6,10 @@ All of those widgets/scripts were created with the app <a href="https://scriptab
 - <a href="https://github.com/marcjulianschwarz/scriptable-widgets/tree/main/nasa-pictures">Daily NASA pictures</a>
 - <a href="https://github.com/marcjulianschwarz/telekom-data-usage-widget">Telekom data usage</a> (only for german telekom customers)
 - <a href="https://github.com/marcjulianschwarz/scriptable-widgets/tree/main/germany-rain-radar">Germany Rain Radar</a>
+- <a href="https://github.com/marcjulianschwarz/scriptable-widgets/tree/main/boca-chica-spacex">Boca Chica SpaceX TFR and Road Closures</a>
 
 ### Coming soon:
 - Better calendar and reminder widget
-- Boca Chica Highway Road Closures
 - Information widget (weather, device information, sunrise/set, reminders, calendar, quote of the day, greeting, date)
 
 ### General setup to use scripts for Scriptable widgets:
