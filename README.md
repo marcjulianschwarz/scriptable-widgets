@@ -7,6 +7,7 @@ All of those widgets/scripts were created with the app <a href="https://scriptab
 - <a href="https://github.com/marcjulianschwarz/telekom-data-usage-widget">Telekom data usage</a> (only for german telekom customers)
 - <a href="https://github.com/marcjulianschwarz/scriptable-widgets/tree/main/germany-rain-radar">Germany Rain Radar</a>
 - <a href="https://github.com/marcjulianschwarz/scriptable-widgets/tree/main/boca-chica-spacex">Boca Chica SpaceX TFR and Road Closures</a>
+- <a href="https://github.com/marcjulianschwarz/scriptable-widgets/tree/main/newsroom">News from Apple Newsroom</a>
 
 ### Coming soon:
 - Better calendar and reminder widget
