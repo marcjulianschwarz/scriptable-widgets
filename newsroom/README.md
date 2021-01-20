@@ -20,7 +20,10 @@ My contact options:
 ### Pictures:
 
 <div>
-<img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/nasa-pictures/images/IMG_1652.jpg" width=240px>
+  <img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/newsroom/images/IMG_2361.jpg" width=240px>
+  <img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/newsroom/images/IMG_2362.jpg" width=240px>
+  <img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/newsroom/images/IMG_2363.jpg" width=240px>
+  <img src = "https://github.com/marcjulianschwarz/scriptable-widgets/blob/main/newsroom/images/IMG_2364.jpg" width=240px>
 </div>
 
 
