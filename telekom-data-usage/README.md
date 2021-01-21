@@ -18,11 +18,18 @@
 5. In den Widget Einstellungen beim Punkt "Script" das eben erstellte Skript auswählen.
 6. (Für die erste Verwendung des Widgets muss das WLAN **deaktiviert** sein und eine Verbindung mit dem Mobilfunknetz vorhanden sein.)
 
-**Für lokale Speicherung:**
-Damit die Daten nur lokal gespeichert werden, muss bei Schritt 5 im Feld "Parameter" der Bergriff "local" angegeben werden.
-Nun sollte das Widget auch ohne iCloud Anmeldung funktionieren.
+### Parameter
+Parameter können nach Schritt 5 angegeben werden.<br><br>
+- "**local**"   -> Daten werden lokal gespeichert
+- "**icloud**"  -> Daten werden über iCloud mit allen anderen Geräten synchronisiert
+- "**visual**"  -> kann beim kleinen Widget verwendet werden um den "Daten Becher" anzuzeigen.
 
+Es könenn auch mehrere Parameter nacheinander angegeben werden.
 
+Beispiel: <br><br>
+<img src = "https://github.com/marcjulianschwarz/telekom-data-usage-widget/blob/main/images/info_cloud_vis.jpg" width=200px>
+
+### Mehr Einstellungen
 Für mehr Einstellungen muss das Skript geöffnet werden. In den ersten Zeilen befindet sich ein Abschnitt **"SETUP"**. Hier können weitere Veränderungen vorgenommen werden (zum Beispiel Hintergrundfarbe ändern).
 
 ### Telekom Modul
@@ -37,10 +44,12 @@ Meine Kontaktmöglichkeiten:
 ### Bilder:
 
 <div>
-<img src = "https://github.com/marcjulianschwarz/telekom-data-usage-widget/blob/main/images/EB88EB09-C1A0-4144-8AC9-C7074B2DF5AB.jpeg" width=240px>
-<img src = "https://github.com/marcjulianschwarz/tmobile-data-usage-widget/blob/main/images/IMG_0544.jpeg" width=240px>
-<img src = "https://github.com/marcjulianschwarz/tmobile-data-usage-widget/blob/main/images/IMG_0545.jpeg" width=240px>
-<img src = "https://github.com/marcjulianschwarz/telekom-data-usage-widget/blob/main/images/E10F0CF9-83A4-4628-8949-442AC0281524.jpeg" width=240px>  
+  <img src = "https://github.com/marcjulianschwarz/telekom-data-usage-widget/blob/main/images/cropped/dark_med.jpg" width=500px>
+  <img src = "https://github.com/marcjulianschwarz/telekom-data-usage-widget/blob/main/images/cropped/light_med.jpg" width=500px>
+  <img src = "https://github.com/marcjulianschwarz/telekom-data-usage-widget/blob/main/images/cropped/dark_small.jpg" width=500px>
+  <img src = "https://github.com/marcjulianschwarz/telekom-data-usage-widget/blob/main/images/cropped/light_small.jpg" width=500px>  
+  <img src = "https://github.com/marcjulianschwarz/telekom-data-usage-widget/blob/main/images/cropped/dark_vis.jpg" width=500px>  
+  <img src = "https://github.com/marcjulianschwarz/telekom-data-usage-widget/blob/main/images/cropped/light_vis.jpg" width=500px> 
 </div>
 
 
